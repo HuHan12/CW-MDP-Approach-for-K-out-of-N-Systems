@@ -1,4 +1,0 @@
-,,,,,,,,CW-MDP(proposed method),,,basic DQN,,,distribued Q-learning,,
-u,K,n,s,m,f,p,lamb,mean,std,computation time,mean,std,computation time,mean,std,computation time
-20,6,0,-2000,-100,-1200,-2000,1,-13893.06444,1883.86402,3.6421515s,-64837.9,1247.9,11.88 hours,-26493.92,3218.67,788.89 minutes
-10,4,0,-2000,-100,-1200,-2000,1,-7915.602484,1559.19451,1.7780913s,-8047.39,1977.17,1.29 hours,-19524.05,3111.59,436.03 minutes
